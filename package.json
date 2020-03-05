@@ -1,0 +1,15 @@
+{
+  "name": "feishi-blog-server",
+  "version": "1.0.0",
+  "description": "a blog",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js"
+	
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "koa": "^2.11.0"
+  }
+}
